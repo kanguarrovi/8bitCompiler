@@ -1,0 +1,9 @@
+fun foo2(limit){
+	for(i=1; i<limit; i=i+2){
+		print_number(i);
+	}
+}
+
+fun main(){
+	foo2(10);
+}

@@ -1,0 +1,9 @@
+fun one(){
+  print_string("Club Sport Herediano");
+  clear_screen();
+  print_string("Heredia Campeon");
+}
+
+fun main(){
+  one();
+}
